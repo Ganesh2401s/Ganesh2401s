@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Ganesh2401s
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Next.js
 - 📫 Feel free to connect with me via Gmail ganeshsingh37713@gmail.com
 
 <!---
