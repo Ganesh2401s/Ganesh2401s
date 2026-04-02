@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ganesh2401s
-- 📫 Feel free to connect with me via Gmail ganeshsingh37713@gmail.com
+- 📫 Feel free to connect with me via [Gmail](ganeshsingh37713@gmail.com).
 
 <!---
 Ganesh2401s/Ganesh2401s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
